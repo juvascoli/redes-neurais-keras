@@ -4,6 +4,12 @@
 Este projeto apresenta dois exercícios práticos de Machine Learning, desenvolvidos para fins educativos, usando Python, scikit-learn e Keras/TensorFlow. Cada exercício aborda um dos problemas mais comuns em ML: classificação e regressão. A seguir estão descrições breves de cada experimento, os códigos implementados e a análise dos resultados obtidos.
  
 ---
+
+## Integrantes
+Turma: 2TDSPF
+- Julia Vasconcelos Oliveira | RM558785
+- Matheus de Freitas | RM552602
+- Gustavo de Aguiar | 557707
  
 ## Exercício 1: Classificação de Vinhos (UCI Wine Dataset)
  
